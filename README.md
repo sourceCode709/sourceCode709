@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sourceCode709
+- 👀 I’m interested in a career in software development.
+- 🌱 I’m a fourth-year undergraduate Computer Science student. 
+- 💞️ I'm currently working on developing a machine learning model to detect COVID-19 based on chest X-ray and CT images.
+- 📫 Please shoot me an email at dgoddenb@yahoo.com if you are interested in collaborating on a project!
