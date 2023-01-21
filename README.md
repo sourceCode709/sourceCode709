@@ -1,8 +1,8 @@
 A little bit about me:
- - 2 years of industry experience as a Software Developer
- - Bachelor of Science, Joint Major; Computer Science & Economics (Graduating in December, 2022)
- - Currently employed as a Cloud Automation Developer part-time
- - Preferred Languages: Python, Java, TypeScript
+ - Over 2 years of industry experience as a Software Developer
+ - Bachelor of Science, Joint Major; Computer Science & Economics
+ - Currently employed as a Cloud Automation Developer
+ - Preferred Languages: Python, TypeScript
  - Favorite Front-end Web Framework: Vue.js
  - Cloud Providers: AWS, GCP
  
